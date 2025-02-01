@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/89051552-9e40-4051-a124-79015d429170)# Project - Specialized Topics CT501H
+# Project - Specialized Topics CT501H
 
 **Semester**: 1, **Academic year**: 2024-2025
 
@@ -7,6 +7,7 @@
 **Student Name**: Đinh Hồ Thanh Tân
 
 **Project Name**: Xây dựng hệ thống cho thuê xe gắn máy
+
 
 
 ![image](https://github.com/user-attachments/assets/45802fc5-e0f6-411e-8df0-11e342a5f2ed)
@@ -52,3 +53,6 @@
 
 
 ![image](https://github.com/user-attachments/assets/1fdb86bc-1d2c-4497-9f5b-5d5f19277d40)
+
+
+![image](https://github.com/user-attachments/assets/89051552-9e40-4051-a124-79015d429170)
